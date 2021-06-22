@@ -1,5 +1,5 @@
 echo "Running tests..."
-if Rscript --vanilla ./test1.R ; then
+if Rscript --vanilla ./test2.R ; then
  echo "Pass: Program exited zero"
 else
  echo "Fail: Program did not exit zero"
